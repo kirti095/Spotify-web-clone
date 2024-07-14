@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any questions or suggestions, feel free to contact me at:
 - Email: kirtisolanki140@gmail.com
-- GitHub: [your-kirti095](https://github.com/kirti095)
+- GitHub: [kirti095](https://github.com/kirti095)
